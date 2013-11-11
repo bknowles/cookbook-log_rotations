@@ -24,5 +24,8 @@ Useful keys within the hash:
 Cookbook Info
 =============
 
-Repo: https://github.com/hw-cookbooks/log_rotations
+Original Repo: https://github.com/hw-cookbooks/log_rotations
+
+This version forked from: https://github.com/akatz/cookbook-log_rotations
+
 IRC: Freenode @ #heavywater
